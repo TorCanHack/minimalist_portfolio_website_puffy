@@ -1,0 +1,18 @@
+/* styles.css */
+@import url('https://fonts.googleapis.com/css2?ffamily=Ibarra+Real+Nova:ital,wght@0,400..700;1,400..700&family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-irn: "Ibarra Real Nova", serif;
+  --font-publicSans: "Public Sans", serif;
+}
+
+/* Define the utility class to apply the font */
+@layer utilities {
+  .font-irn {
+    font-family: var(--font-irn);
+  }
+  .font-publicSans {
+    font-family: var(--font-publicSans);
+  }
+}
