@@ -9,7 +9,7 @@ const ContactMe = () => {
             <article className='border-y border-gray-300 lg:flex lg:flex-row lg:justify-between lg:py-8'>
                 <h2 className='text-[40px] font-bold leading-10 font-irn my-6 lg:my-0'>Get in Touch</h2>
                 <div className='lg:w-[650px]'>
-                    <p className='text=[15px] font-publicSans font-light leading-[30px]'>I’d love to hear about what you’re working on and how I could help. I’m currently looking for a new role and am open to a wide range of opportunities. My preference would be to find a position in a company in London. But I’m also happy to hear about opportunites that don’t fit that description. I’m a hard-working and positive person who will always approach each task with a sense of purpose and attention to detail. Please do feel free to check out my online profiles below and get in touch using the form.</p>
+                    <p className='text=[15px] font-publicSans font-light leading-[30px]'>I’d love to hear about what you’re working on and how I could help. I’m currently looking for a new role and am open to a wide range of opportunities. My preference would be to find a remote job. But I’m also happy to hear about opportunites that don’t fit that description. I’m a hard-working and positive person who will always approach each task with a sense of purpose and attention to detail. Please do feel free to check out my online profiles below and get in touch using the form.</p>
 
                     <div className='flex flex-row justify-between w-28 py-9'>
                         <img src={twitter_icon} alt='twitter icon'/>
