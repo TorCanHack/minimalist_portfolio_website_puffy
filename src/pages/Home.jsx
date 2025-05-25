@@ -2,7 +2,7 @@ import hero_mobile from '../assets/images/homepage/mobile/image-homepage-hero@2x
 import hero_tablet from '../assets/images/homepage/tablet/image-homepage-hero@2x.jpg'
 import hero_dekstop from '../assets/images/homepage/desktop/image-homepage-hero@2x.jpg'
 import down_arrows_icon from '../assets/images/icons/down-arrows.svg'
-import pic from '../assets/images/hero.jpg'
+import pic from '../assets/images/hero.jpeg'
 const Home = () => {
 
     return(
